@@ -20,8 +20,8 @@ Changelog for package smach
 * Adding event for thread synchronization in concurrence and using event not condition in monitor state
 * Contributors: Felix Kolbe, Jonathan Bohren, Piotr Orzechowski, cburbridge
 
-Forthcoming
------------
+2.0.1 (2015-04-27)
+------------------
 * Add timeout on termination child states.
   This is to handle cases where child states refuse to terminate. Providing a timeout value allows the concurrence to return that long after a termination event (preempt or child completion) has happened. If the argument is ommitted from the init method then the default behaviour (no timeout) is used.
 * Added check for immediate preemption to Concurrence.

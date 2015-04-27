@@ -9,8 +9,8 @@ Changelog for package smach_msgs
 * Add explanations within message definitions
 * Contributors: Felix Kolbe, Jonathan Bohren
 
-Forthcoming
------------
+2.0.1 (2015-04-27)
+------------------
 * 2.0.0
 * Updating changelogs
 * cleaning up and removing rosbuild support

@@ -5,8 +5,8 @@ Changelog for package executive_smach
 2.0.0 (2014-04-17)
 ------------------
 
-Forthcoming
------------
+2.0.1 (2015-04-27)
+------------------
 * 2.0.0
 * Updating changelogs
 * Contributors: Jonathan Bohren

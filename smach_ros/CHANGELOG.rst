@@ -17,8 +17,8 @@ Changelog for package smach_ros
 * edited monitor state to allow input and output keys
 * Contributors: Boris Gromov, Bruno Lacerda, Felix Kolbe, Hendrik Wiese, Jonathan Bohren, cburbridge
 
-Forthcoming
------------
+2.0.1 (2015-04-27)
+------------------
 * fixing monitor state callback args and adding unit test for monitor state that modifies userdata
 * make ServiceState more robust to termination while waiting for service
 * 2.0.0
