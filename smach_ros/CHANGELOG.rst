@@ -2,8 +2,8 @@
 Changelog for package smach_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+3.0.0 (2018-09-04)
+------------------
 * changed maintainer for local version
 * Merge pull request `#5 <https://github.com/strands-project/executive_smach/issues/5>`_ from ros/indigo-devel
   Import upstream
